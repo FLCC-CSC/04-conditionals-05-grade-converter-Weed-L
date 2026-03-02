@@ -85,10 +85,7 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
-
-
-
+Nothing for the students, but for the professor: make sure to remove your code from the lab before opening it to students ;)
 
 
 '''
